@@ -2,7 +2,9 @@
 
 ## I'm begginer Front-end Developer
 
-## Stats:
+I have completed online courses in HTML / CSS / JS / React and am looking for an opportunity to put my knowledge into practice.
+
+### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptunsk1y&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
