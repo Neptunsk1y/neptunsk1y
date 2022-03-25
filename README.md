@@ -17,8 +17,8 @@
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
 
 ### Follow Me
-![YOUTUBE](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=ff0000)
+[![YOUTUBE](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=ff0000)]()
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/neptxnsk1y)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)]()
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
-[![DISCORD](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)]()
+[![DISCORD](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](dsc.bio/neptxnsk1y)
