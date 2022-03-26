@@ -22,5 +22,6 @@ I have completed online courses in HTML / CSS / JS / React and am looking for an
 [![YOUTUBE](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=ff0000)]()
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/neptxnsk1y)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)]()
-[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/neptxnsk1y)
 [![DISCORD](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](dsc.bio/neptxnsk1y)
+[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/neptunsk1y)
