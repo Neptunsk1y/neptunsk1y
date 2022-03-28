@@ -11,12 +11,11 @@ I have completed online courses in HTML / CSS / JS / React and am looking for an
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=29acdf)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-ReacT-090909?style=for-the-badge&logo=React)
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
-![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=430098)
-![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
+
 
 ### Follow Me
 [![YOUTUBE](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=ff0000)]()
