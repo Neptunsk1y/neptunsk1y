@@ -11,7 +11,7 @@ I have completed online courses in HTML / CSS / JS / React and am looking for an
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=29acdf)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
+![SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-ReacT-090909?style=for-the-badge&logo=React)
