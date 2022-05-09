@@ -1,4 +1,4 @@
-![Header](hhttps://github.com/Neptunsk1y/neptunsk1y/blob/main/assets/IMG_20220509_102735.jpg)
+![Header](https://github.com/Neptunsk1y/neptunsk1y/blob/main/assets/IMG_20220509_102735.jpg)
 
 ## I'm begginer C++ and C# developer
 
