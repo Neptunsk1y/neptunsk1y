@@ -6,7 +6,7 @@
 
 - My tools:
 
-    ![C#](https://img.shields.io/badge/-CSHARP-090909?style=for-the-badge&logo=c-sharp&logoColor=a179dc)
+![C#](https://img.shields.io/badge/-CSHARP-090909?style=for-the-badge&logo=c-sharp&logoColor=a179dc)
 ![​PYTHON](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
 
 
