@@ -1,7 +1,6 @@
 My name is Mikhail, aka Neptunsk1y, I am a beginner C# developer.
 -   <h3>💻 Development Stacks I like to use</h3>
-    <p>
-      M.E.R.N. - 
+    <p> 
         <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=4% height=4% />
         <img src="https://imgur.com/UwwZTgs.png" title="Python" alt="python" width=4% height=4% />
       <br>
