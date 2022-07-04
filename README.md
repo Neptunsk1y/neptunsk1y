@@ -14,7 +14,7 @@
 <p align="left">
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-      <img width="46px" top = "100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"/>
+      <img width="44px" top = "100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/html-5--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>  
