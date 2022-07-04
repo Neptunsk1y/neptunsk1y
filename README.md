@@ -1,24 +1,21 @@
 <h2 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h2>
 
-- 🔭 My name is Mikhail, I'm **15 yo**
+- 🔭 I'm **Mikhail** - I'm a backend developer and high school student.
 
-- 🌱 I’m currently learning **JavaScript, C#, Node.js and Express.js**
+- 🌱 I’m currently learning **JavaScript, Node.js and Express.js**
 
 - 📫 My Discord profile: **neptunsk1y#7777**
-
-- 📫 How to reach me: <b><a href="mailto:neptunsk1y.labs@list.ru">neptunsk1y.labs@list.ru</a></b>
 
 
 <h2 align="left"><samp><i><b>🚀 Tech Stack:</b></i></samp></h2>
 
-<p align="left">
-      <img width="50px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
-      <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-      <img width="44px" top = "100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"/>
-      <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
-      <img width="50px" src="https://img.icons8.com/color/96/html-5--v1.png"/>
-      <img width="50px" src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>  
-      <img width="50px" src="https://img.icons8.com/fluency/344/azure-1.png"/> 
-      <img width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
-      <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
 
+  
+[![ Мои навыки ](https://skillicons.dev/icons?i=js,html,css,nodejs,py,express,mongodb,docker,vscode)](https://skillicons.dev)
+
+<details>
+  <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=neptunsk1y&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
