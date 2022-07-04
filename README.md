@@ -1,6 +1,3 @@
-<h4 align="center"><samp>I'm a open source programmer and I am learning a lot from the community of developers. I am passionate about technology and how things work. I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
-<br />
-
 <h2 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h2>
 
 - 🔭 My name is Mikhail, I'm **15 yo**
@@ -20,19 +17,7 @@
       <img width="46px" top = "100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/html-5--v1.png"/>
-      <img width="50px" src="https://img.icons8.com/color/96/css3.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>  
-      <img width="50px" src="https://img.icons8.com/color/96/nodejs.png"/>
-      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
-      <img width="50px" src="https://img.icons8.com/material-two-tone/96/000000/github.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
-
-<p align="center">
-    <a href="https://github.com/Neptunsk1y/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neptunsk1y's streak" height = "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Neptunsk1y&theme=tokyonight_duo&hide_border=true&stroke=0000&background=FFFFFF"/>
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"
-    height = "150"></a>
-</p>
 
