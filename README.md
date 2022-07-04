@@ -28,3 +28,11 @@
       <img width="50px" src="https://img.icons8.com/material-two-tone/96/000000/github.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
 
+<p align="center">
+    <a href="https://github.com/Neptunsk1y/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neptunsk1y's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Neptunsk1y&theme=tokyonight_duo&hide_border=true&stroke=0000&background=FFFFFF"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"
+    height = "194"></a>
+</p>
+
