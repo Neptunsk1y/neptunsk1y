@@ -7,7 +7,7 @@
 - Write for joint projects and conversations with me
 
 
-  <h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
+<h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
   <p align="center">
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
