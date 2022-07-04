@@ -11,13 +11,14 @@
 
 <h2 align="left"><samp><i><b>🚀 Tech Stack:</b></i></samp></h2>
 
-<p align="center">
+<p align="left">
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
       <img width="46px" top = "100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/html-5--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>  
+      <img width="50px" src="https://img.icons8.com/fluency/344/azure-1.png"/> 
       <img width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
 
