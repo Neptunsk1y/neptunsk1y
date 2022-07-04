@@ -30,9 +30,9 @@
 
 <p align="center">
     <a href="https://github.com/Neptunsk1y/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neptunsk1y's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Neptunsk1y&theme=tokyonight_duo&hide_border=true&stroke=0000&background=FFFFFF"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neptunsk1y's streak" height = "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Neptunsk1y&theme=tokyonight_duo&hide_border=true&stroke=0000&background=FFFFFF"/>
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact"
-    height = "194"></a>
+    height = "150"></a>
 </p>
 
