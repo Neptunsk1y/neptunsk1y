@@ -1,4 +1,4 @@
-<h2 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h2>
+<h3 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h3>
 
 - 🔭 I'm **Mikhail** - I'm a backend developer and high school student.
 
@@ -7,7 +7,7 @@
 - 📫 My Discord profile: **neptunsk1y#7777**
 
 
-<h2 align="left"><samp><i><b>🚀 Tech Stack:</b></i></samp></h2>
+<h3 align="left"><samp><i><b>🚀 Tech Stack:</b></i></samp></h3>
 
 
   
