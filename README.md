@@ -11,7 +11,7 @@
 
 
   
-[![ Мои навыки ](https://skillicons.dev/icons?i=js,html,css,nodejs,py,express,mongodb,docker,vscode)](https://skillicons.dev)
+[![ Мои навыки ](https://skillicons.dev/icons?i=js,html,css,nodejs,py,vscode)](https://skillicons.dev)
 
 <details>
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
