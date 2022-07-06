@@ -1,8 +1,8 @@
 <h3 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h3>
 
-- 🔭 I'm **Mikhail** - I'm a backend developer and high school student.
+- 🔭 I'm **Mikhail** - I'm a C# developer and high school student.
 
-- 🌱 I’m currently learning **JavaScript, Node.js and Express.js**
+- 🌱 I’m currently learning **C#, Python and .NET Framework**
 
 - 📫 My Discord profile: **neptunsk1y#7777**
 
@@ -11,7 +11,7 @@
 
 
   
-[![ Мои навыки ](https://skillicons.dev/icons?i=js,html,css,nodejs,py,vscode)](https://skillicons.dev)
+[![ Мои навыки ](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,unity,vscode,visualstudio)](https://skillicons.dev)
 
 <details>
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
