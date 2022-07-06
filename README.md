@@ -2,7 +2,7 @@
 
 - 🔭 I'm **Mikhail** - I'm a C# developer and high school student.
 
-- 🌱 I’m currently learning **C#, Python and .NET Framework**
+- 🌱 I’m currently learning **C#, .NET Core and SQL**
 
 - 📫 My Discord profile: **neptunsk1y#7777**
 
