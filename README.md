@@ -11,7 +11,7 @@
 
 
   
-[![ Мои навыки ](https://skillicons.dev/icons?i=cpp,cs,java,py,unity,vscode,visualstudio)](https://skillicons.dev)
+[![ Мои навыки ](https://skillicons.dev/icons?i=cs,py,vscode,visualstudio)](https://skillicons.dev)
 
 <details>
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
