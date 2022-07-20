@@ -1,8 +1,8 @@
 <h3 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h3>
 
-- 🔭 I'm **Mikhail** - I'm a C# developer and high school student.
+- 🔭 I'm **Mikhail** - I'm a beginner **Fullstack** developer and high school student.
 
-- 🌱 I’m currently learning **C# and TypeScript**
+- 🌱 I’m currently learning **JS, TS, React, NestJS and NextJS**
 
 - 📫 My Discord profile: **neptunsk1y#7777**
 
