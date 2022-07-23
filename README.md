@@ -11,7 +11,7 @@
 
 
   
-[![ Мои навыки ](https://skillicons.dev/icons?i=javascript,typescript,react,nestjs,py,vscode)](https://skillicons.dev)
+[![ Мои навыки ](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind)](https://skillicons.dev)
 
 <details>
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
