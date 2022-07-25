@@ -2,7 +2,7 @@
 
 - 🔭 I'm **Mikhail** - I'm a beginner **Fullstack** developer and high school student.
 
-- 🌱 I’m currently learning **JS, TS, React and NestJS**
+- 🌱 I’m currently learning **JS, TS, React and NextJS**
 
 - 📫 My Discord profile: **neptunsk1y#7777**
 
