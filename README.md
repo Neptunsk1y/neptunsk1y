@@ -17,8 +17,8 @@
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
   
   <a href="#">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neptunsk1y&theme=dark)](https://git.io/streak-stats)</a>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=neptunsk1y&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=neptunsk1y&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptunsk1y&layout=compact&theme=dark&count_private=true&hide_border=true)
   <a href="https://wakatime.com/@Neptunsk1y">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neptunsk1y&theme=dark&layout=compact&langs_count=10" alt="Clashsoft Time Stats">
   </a>
