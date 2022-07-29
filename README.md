@@ -1,6 +1,6 @@
 <h3 align="left"><samp><i><b>🙋‍♂️ About Me </b></i></samp></h3>
 
-- 🔭 I'm **Mikhail** - I'm a beginner **Fullstack** developer and high school student.
+- 🔭 I'm **Mikhail** - I'm a beginner **Frontend developer** and high school student.
 
 - 🌱 I’m currently learning **JS, TS and React**
 
