@@ -11,7 +11,7 @@
 
 
   
-[![ Мои навыки ](https://skillicons.dev/icons?i=c,c#,typescript,python)](https://skillicons.dev)
+[![ Мои навыки ](https://skillicons.dev/icons?i=cs,dotnet,typescript,nestjs,python,arduino)](https://skillicons.dev)
 
 <details>
   <summary><samp><i><b>⚡ Github Stats</b></i></samp></summary>
