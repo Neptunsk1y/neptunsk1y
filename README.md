@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript, C#**
 
-- 📫 My Discord profile: **neptunsk1y#7777**
+- 📫 My Discord profile: **nept#1488**
 
 
 <h3 align="left"><samp><i><b>🚀 Tech Stack:</b></i></samp></h3>
